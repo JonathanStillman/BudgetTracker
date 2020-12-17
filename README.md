@@ -16,4 +16,4 @@ When brought back online:
   * Offline entries should be added to tracker.
   
 ## Example:
-![](example.PNG)
+![](example.png)
